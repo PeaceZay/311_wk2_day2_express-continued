@@ -1,4 +1,4 @@
-module.exports =[
+module.exports = [
   {
     "_id": 1,
     "name": "Dale Cooper",
